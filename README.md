@@ -25,7 +25,7 @@ As you may have guessed, I'm a programmer...
 ![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,vscode,visualstudio,wordpress,sqlite,mysql,laravel)
 
 ## Projects
-Currently my favorite project is **[Flashcards](https://github.com/creeper82/flashcards)** written in C#
+Currently my main project is **[Flashcards](https://github.com/creeper82/flashcards)** written in C#
 
 ## Other stats
 
