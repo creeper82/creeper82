@@ -24,9 +24,6 @@ As you may have guessed, I'm a programmer...
 ### Technologies
 ![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,vscode,visualstudio,wordpress,sqlite,mysql,laravel)
 
-## Projects
-Currently my main project is **[Flashcards](https://github.com/creeper82/flashcards)** written in C#
-
 ## Other stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeper82&size_weight=0.5&count_weight=0.5&theme=transparent)
