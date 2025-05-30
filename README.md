@@ -22,7 +22,7 @@ As you may have guessed, I'm a programmer...
 ![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,php,cpp,cs,kotlin,py,lua)
 
 ### Technologies
-![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,vscode,visualstudio,wordpress,sqlite,mysql,laravel)
+![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,vscode,visualstudio,wordpress,sqlite,mysql,laravel,react,express,nodejs)
 
 ## Other stats
 
